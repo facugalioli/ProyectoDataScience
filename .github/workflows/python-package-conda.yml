@@ -32,3 +32,8 @@ jobs:
       run: |
         conda install pytest
         pytest
+        
+        import pandas as pd 
+        import numpy as np
+        
+        
