@@ -24,3 +24,6 @@ Podemos considerar como propósito valido para este análisis, brindar el conoci
 Entender que categorías generaron más cantidad de aportes humanitarios puede servir para profundizar en las que no lo hicieron y poder generar aportes más significativos donde se evidencia que generaría un mayor impacto a nivel global.
 
 ## **Importación de la librería Pandas y Numpy**
+
+import pandas as pd
+import numpy as np
